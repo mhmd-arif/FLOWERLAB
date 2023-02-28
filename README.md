@@ -3,3 +3,4 @@ FLOWERLAB adalah sebuah website yang memuat konten menganai berbagai bunga denga
 
 # Anggota kelompok
 Ketua kelompok : Muhammad Arif Hidayat - 20/463609/TK/51601
+Anggota 1 :Faizah Bestiyana Darmawati - 20/456364/TK/50494
