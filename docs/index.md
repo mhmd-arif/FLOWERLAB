@@ -60,7 +60,7 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 ![login](asset/pages/Login_penjual.png)
 
 ### Page Profile Penjual
-![profilepenjual](asset/pages/Profile_Penjual.png)
+![profilepenjual](asset/pages/Profil_Penjual.png)
 
 ### Page Menambah Produk Bunga
 ![InputBunga](asset/pages/Input_bunga.png)
