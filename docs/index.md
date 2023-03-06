@@ -48,25 +48,25 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 ## Lo-Fi Design
 
 ### Page Landing Page
-![ladingpage](asset/pages/Landing Page.png)
+![ladingpage](asset/pages/Landing_Page.png)
 
 ### Page Flowerlab Marketplace
-![marketplace](asset/pages/Jual beli.png)
+![marketplace](asset/pages/Jual_beli.png)
 
 ### Page Sign Up/Register
-![SignUp](asset/pages/Sign up penjual.png)
+![SignUp](asset/pages/Sign_up_penjual.png)
 
 ### Page Login
-![login](asset/pages/Login penjual.png)
+![login](asset/pages/Login_penjual.png)
 
 ### Page Profile Penjual
-![profilepenjual](asset/pages/Profile Penjual.png)
+![profilepenjual](asset/pages/Profile_Penjual.png)
 
 ### Page Menambah Produk Bunga
-![InputBunga](asset/pages/Input bunga.png)
+![InputBunga](asset/pages/Input_bunga.png)
 
 ### Page Deskripsi Bunga
-![DeskripsiBunga](asset/pages/Deskripsi bunga.png)
+![DeskripsiBunga](asset/pages/Deskripsi_bunga.png)
 
 ### Page 404 not found
 ![404](asset/pages/404.png)
