@@ -25,3 +25,51 @@ Membuat web app yang terintegrasi AI.
 ![kompetitor-1](asset/kompetitor-1.png)
 ![kompetitor-2](asset/kompetitor-2.png)
 ![kompetitor-3](asset/kompetitor-3.png)
+
+# Modul 2
+
+## Tujuan dari produk
+Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam membedakan tiap jenis bunga anggrek, mereka dapat memanfaatkan fitur image recognition untuk mengetahui jenis anggrek yang mereka inginkan. Selain itu ada platform untuk mempertemukan antara penjual dan pembeli bunga anggrek (transaksi dilakukan di luar web).
+
+## Pengguna Potensial dan Kebutuhan Para Pengguna
+- Peminat Bunga Anggrek : informasi terkait setiap jenis bunga anggrek
+- Penjual Bunga Anggrek : platform penjualan bunga anggrek
+- Pembeli Bunga Anggrek : platform pembelian bunga anggrek
+
+## Use case
+![use-case](asset/usecase.png)
+
+## Functional Requirements
+![func-req](asset/functional-req.png)
+
+## ERD
+![erd](asset/erd.png)
+
+## Lo-Fi Design
+
+### Page Landing Page
+![ladingpage](asset/pages/Landing Page.png)
+
+### Page Flowerlab Marketplace
+![marketplace](asset/pages/Jual beli.png)
+
+### Page Sign Up/Register
+![SignUp](asset/pages/Sign up penjual.png)
+
+### Page Login
+![login](asset/pages/Login penjual.png)
+
+### Page Profile Penjual
+![profilepenjual](asset/pages/Profile Penjual.png)
+
+### Page Menambah Produk Bunga
+![InputBunga](asset/pages/Input bunga.png)
+
+### Page Deskripsi Bunga
+![DeskripsiBunga](asset/pages/Deskripsi bunga.png)
+
+### Page 404 not found
+![404](asset/pages/404.png)
+
+## Gantt Chart
+![ganttchart](asset/ganchart.png)
