@@ -15,10 +15,13 @@ Anggrek merupakan salah satu tanaman hias yang banyak diminati dan dicari oleh p
 Masih banyak peminat anggrek yang belum mengetahui jenis-jenis anggrek.  
 Tempat jual beli khusus anggrek masih terbatas. 
 
+## Ide solusi
+Membuat web app yang terintegrasi AI. 
+
 ## Rencana Fitur-Fitur
-![Gambar rancangan fitur-fitur aplikasi](../asset/rancangan-fitur.png)
+![Gambar rancangan fitur-fitur aplikasi](asset/rancangan-fitur.png)
 
 ## Analisis Kompetitor
-![kompetitor-1](../asset/kompetitor-1.png)
-![kompetitor-2](../asset/kompetitor-2.png)
-![kompetitor-3](../asset/kompetitor-3.png)
+![kompetitor-1](asset/kompetitor-1.png)
+![kompetitor-2](asset/kompetitor-2.png)
+![kompetitor-3](asset/kompetitor-3.png)
