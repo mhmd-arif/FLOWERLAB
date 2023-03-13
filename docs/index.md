@@ -93,19 +93,20 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 ![image](https://user-images.githubusercontent.com/71450198/224602242-3cd5d3bf-d17c-4996-bfbf-f4753523c742.png)
 
 ## Issue yang Dikerjakan
-### Mencari Color Palette
-![image](https://user-images.githubusercontent.com/71450198/224601951-cbe1e582-39bf-4384-bcd1-381050fbd041.png)
-
 ### Mencari Desain Web
-![image](https://user-images.githubusercontent.com/71450198/224611572-e54735f9-9226-45c7-8c5b-5c23c71b7d1c.png)
+![image](https://user-images.githubusercontent.com/71450198/224627520-6b577205-25fc-4482-a83d-30a831f0998e.png)
 
-### Mengumpulkan Dataset AI
-![image](https://user-images.githubusercontent.com/71450198/224602034-51ea8fd2-ffc1-4d4b-864d-a0d91deb1223.png)
+### Mencari Color Palette
+![image](https://user-images.githubusercontent.com/71450198/224627631-64f7cd5a-d1d2-4405-88e7-6d79f56c6d19.png)
 
 ### Membuat Hi-Fi Wireframe
-![image](https://user-images.githubusercontent.com/71450198/224618920-186b6fb7-7c81-4016-b939-6cc078bdc95d.png)
+![image](https://user-images.githubusercontent.com/71450198/224627765-c5754ea3-67e3-44a1-9b35-db6fc1ff9347.png)
 
+### Mengumpulkan Dataset AI
+![image](https://user-images.githubusercontent.com/71450198/224627983-55da846f-a7d1-4e33-ad07-0e9229b0093c.png)
 
+### Mengupdate Github Pages
+![image](https://user-images.githubusercontent.com/71450198/224628150-9b2cc037-5000-4c2e-ba7f-0501b7f49a89.png)
 
 [[Issue yang dikerjakan selengkapnya]](https://docs.google.com/document/d/147SH6SlzbMyHlm8dcoOZ1TwMgDPipiZ8/edit?usp=sharing&ouid=101317987323399690576&rtpof=true&sd=true)
 
