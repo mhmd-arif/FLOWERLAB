@@ -85,6 +85,7 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 
 </details>
 
+
 <details markdown="1">
 <summary><h2>🔽 PR Modul 3</h2></summary>
 
@@ -94,6 +95,9 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 ## Issue yang Dikerjakan
 ### Mencari Color Palette
 ![image](https://user-images.githubusercontent.com/71450198/224601951-cbe1e582-39bf-4384-bcd1-381050fbd041.png)
+
+### Mencari Desain Web
+![image](https://user-images.githubusercontent.com/71450198/224611572-e54735f9-9226-45c7-8c5b-5c23c71b7d1c.png)
 
 ### Mengumpulkan Dataset AI
 ![image](https://user-images.githubusercontent.com/71450198/224602034-51ea8fd2-ffc1-4d4b-864d-a0d91deb1223.png)
