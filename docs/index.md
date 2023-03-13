@@ -2,12 +2,16 @@
 FLOWERLAB adalah sebuah website yang memuat konten menganai berbagai bunga dengan berbagai informasinya, terdapat fitur image recognition, dan tempat jual beli bunga
 
 # Anggota kelompok
-Ketua kelompok : Muhammad Arif Hidayat - 20/463609/TK/51601
+Ketua kelompok : 
+Muhammad Arif Hidayat - 20/463609/TK/51601 <br>
+
 Anggota :
 1. Faizah Bestiyana Darmawati - 20/456364/TK/50494
 2. Putri Ayu Shintaningrum - 20/460559/TK/51148
 
-# Modul 1
+<details markdown="1">
+<summary><h2>1️⃣ Modul 1</h2></summary>
+
 ## Latar Belakang
 Anggrek merupakan salah satu tanaman hias yang banyak diminati dan dicari oleh penikmat tanam-tanaman khususunya anggrek. Oleh karena itu, saat ini bisnis penjualan anggrek adalah bisnis yang menjanjikan dan memiliki pasar yang jelas. Namun, anggrek memiliki berbagai jenis yang tiap jenisnya memiliki nilai yang berbeda. 
 
@@ -26,7 +30,11 @@ Membuat web app yang terintegrasi AI.
 ![kompetitor-2](asset/kompetitor-2.png)
 ![kompetitor-3](asset/kompetitor-3.png)
 
-# Modul 2
+</details>
+
+
+<details markdown="1">
+<summary><h2>2️⃣ Modul 2</h2></summary>
 
 ## Tujuan dari produk
 Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam membedakan tiap jenis bunga anggrek, mereka dapat memanfaatkan fitur image recognition untuk mengetahui jenis anggrek yang mereka inginkan. Selain itu ada platform untuk mempertemukan antara penjual dan pembeli bunga anggrek (transaksi dilakukan di luar web).
@@ -74,7 +82,10 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 ## Gantt Chart
 ![ganttchart](asset/ganchart.png)
 
-# PR Modul 3
+</details>
+
+<details markdown="1">
+<summary><h2>3️⃣ PR Modul 3</h2></summary>
 
 ## Rangkuman
 ![image](https://user-images.githubusercontent.com/71450198/224602242-3cd5d3bf-d17c-4996-bfbf-f4753523c742.png)
@@ -87,8 +98,9 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 ### Mengumpulkan Dataset AI
 ![image](https://user-images.githubusercontent.com/71450198/224602034-51ea8fd2-ffc1-4d4b-864d-a0d91deb1223.png)
 
-[Selengkapnya](https://link-url-here.org)
+[Issue yang dikerjakan Selengkapnya](https://docs.google.com/document/d/147SH6SlzbMyHlm8dcoOZ1TwMgDPipiZ8/edit?usp=sharing&ouid=101317987323399690576&rtpof=true&sd=true)
 
 ## Peran Anggota
 ![image](https://user-images.githubusercontent.com/71450198/224601676-fa3a4407-1d1b-4566-8150-0f3edf5a18db.png)
 
+</details>
