@@ -73,3 +73,22 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 
 ## Gantt Chart
 ![ganttchart](asset/ganchart.png)
+
+# PR Modul 3
+
+## Rangkuman
+![image](https://user-images.githubusercontent.com/71450198/224602242-3cd5d3bf-d17c-4996-bfbf-f4753523c742.png)
+
+
+## Issue yang Dikerjakan
+### Mencari Color Palette
+![image](https://user-images.githubusercontent.com/71450198/224601951-cbe1e582-39bf-4384-bcd1-381050fbd041.png)
+
+### Mengumpulkan Dataset AI
+![image](https://user-images.githubusercontent.com/71450198/224602034-51ea8fd2-ffc1-4d4b-864d-a0d91deb1223.png)
+
+[Selengkapnya](https://link-url-here.org)
+
+## Peran Anggota
+![image](https://user-images.githubusercontent.com/71450198/224601676-fa3a4407-1d1b-4566-8150-0f3edf5a18db.png)
+
