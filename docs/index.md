@@ -103,7 +103,8 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 ![image](https://user-images.githubusercontent.com/71450198/224602034-51ea8fd2-ffc1-4d4b-864d-a0d91deb1223.png)
 
 ### Membuat Hi-Fi Wireframe
-![image](https://user-images.githubusercontent.com/71450198/224618690-7ec1f10c-228b-47cb-9f82-05f2fcba4836.png)
+![image](https://user-images.githubusercontent.com/71450198/224618920-186b6fb7-7c81-4016-b939-6cc078bdc95d.png)
+
 
 
 [[Issue yang dikerjakan selengkapnya]](https://docs.google.com/document/d/147SH6SlzbMyHlm8dcoOZ1TwMgDPipiZ8/edit?usp=sharing&ouid=101317987323399690576&rtpof=true&sd=true)
