@@ -92,7 +92,7 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 ## Rangkuman
 ![image](https://user-images.githubusercontent.com/71450198/224602242-3cd5d3bf-d17c-4996-bfbf-f4753523c742.png)
 
-## Issue yang Dikerjakan
+## Issue Yang Dikerjakan
 ### Mencari Desain Web
 ![image](https://user-images.githubusercontent.com/71450198/224627520-6b577205-25fc-4482-a83d-30a831f0998e.png)
 
@@ -112,5 +112,32 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 
 ## Peran Anggota
 ![image](https://user-images.githubusercontent.com/71450198/224601676-fa3a4407-1d1b-4566-8150-0f3edf5a18db.png)
+
+</details>
+
+
+<details markdown="1">
+<summary><h2>🔽 PR Modul 4</h2></summary>
+
+## Rangkuman 
+![image](https://user-images.githubusercontent.com/71450198/226402725-63f60989-be6f-4fdb-b94a-c47dc327efc6.png)
+
+## Issue Yang Dikerjakan
+### Mencari Desain Web
+![image](https://user-images.githubusercontent.com/71450198/226403357-7b9100c0-2d80-4170-9331-f1e9ecf26346.png)
+
+### Membuat Hi-Fi Wireframe
+![image](https://user-images.githubusercontent.com/71450198/226403488-9b403d52-6239-4b8d-8d5e-1b440c885c4b.png)
+
+### Mengumpulkan dataset AI
+![image](https://user-images.githubusercontent.com/71450198/226403964-d1f673bd-1dd1-42a1-91a3-13b949f95337.png)
+
+### Melakukan training pada AI 
+![image](https://user-images.githubusercontent.com/71450198/226404095-969c444f-2ee1-497f-9f41-8c237b322a01.png)
+
+### Mengembangkan Backend 
+![image](https://user-images.githubusercontent.com/71450198/226404209-a97b3348-c581-4409-81f3-38ef78802a5a.png)
+
+[[Issue yang dikerjakan selengkapnya]](https://docs.google.com/document/d/1FlC4jqixT_j93HiL71J8u2EOSfztL4M2/edit?usp=sharing&ouid=101317987323399690576&rtpof=true&sd=true)
 
 </details>
