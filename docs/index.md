@@ -165,3 +165,23 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 [[PR Modul 5 selengkapnya]](https://docs.google.com/document/d/1FVr68R6Ajp6YJXDSStNJcRclXvygFID1/edit?usp=sharing&ouid=101317987323399690576&rtpof=true&sd=true)
 
 </details>
+
+<details markdown="1">
+<summary><h2>🔽 PR Modul 6</h2></summary>
+
+## Rangkuman 
+![image](https://user-images.githubusercontent.com/71450198/235478930-80771cbb-1297-4038-a25c-d6b8019dc17e.png)
+
+## Issue Yang Dikerjakan
+### Mengumpulkan dataset AI
+![image](https://user-images.githubusercontent.com/71450198/235479065-c29504e7-5f18-4185-a3e8-be0fc7371768.png)
+
+### Melakukan training pada AI
+[coming soon]
+
+### Mengembangkan Frontend 
+![image](https://user-images.githubusercontent.com/71450198/235479244-1f486739-6027-4d69-b5e2-5424d2318ccf.png)
+
+[[PR Modul 6 selengkapnya]](https://docs.google.com/document/d/18yEjgytAe4D0aGtAjD_zz3wV-8-LpdDC/edit?usp=sharing&ouid=110444669863654736771&rtpof=true&sd=true)
+
+</details>
