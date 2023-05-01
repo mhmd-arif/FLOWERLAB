@@ -174,10 +174,10 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 
 ## Issue Yang Dikerjakan
 ### Mengumpulkan dataset AI
-![image](https://user-images.githubusercontent.com/71450198/235479065-c29504e7-5f18-4185-a3e8-be0fc7371768.png)
+![image](https://user-images.githubusercontent.com/71450198/235551674-53d1be5b-33d3-41bb-a9e9-13a8f8656be3.png)
 
 ### Melakukan training pada AI
-[coming soon]
+![image](https://user-images.githubusercontent.com/71450198/235551731-e3a8cf5d-8443-46d3-9de2-365f5d512a97.png)
 
 ### Mengembangkan Frontend 
 ![image](https://user-images.githubusercontent.com/71450198/235479244-1f486739-6027-4d69-b5e2-5424d2318ccf.png)
