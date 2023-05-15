@@ -205,3 +205,26 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 [[PR Modul 7 selengkapnya]](https://docs.google.com/document/d/1NvkOBs-O1nxECXJ6j4NQN3rzqPoxfsNy/edit?usp=sharing&ouid=101317987323399690576&rtpof=true&sd=true)
 
 </details>
+
+
+</details>
+
+<details markdown="1">
+<summary><h2>🔽 PR Modul 8</h2></summary>
+
+## Rangkuman 
+![image](https://github.com/mhmd-arif/FlowerLab-Frontend/assets/71450198/50c73c2f-2503-4255-a100-422f5351426b)
+
+## Issue Yang Dikerjakan
+### Mengumpulkan dataset AI
+![image](https://github.com/mhmd-arif/FlowerLab-Frontend/assets/71450198/174d492f-acf4-4cce-98ef-a0209e973a48)
+
+### Melakukan training pada AI
+![image](https://github.com/mhmd-arif/FlowerLab-Frontend/assets/71450198/b4a88850-1e26-4a59-a132-b1783d63a346)
+
+### Mengembangkan Frontend 
+![image](https://github.com/mhmd-arif/FlowerLab-Frontend/assets/71450198/55fda56f-74db-4f0a-87f5-7e5f0b11c11d)
+
+[[PR Modul 8 selengkapnya]](https://docs.google.com/document/d/1nADpxKBYXiDEEylDzqG2WkruMQeiA14u/edit?usp=sharing&ouid=101317987323399690576&rtpof=true&sd=true)
+
+</details>
