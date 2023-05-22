@@ -226,8 +226,6 @@ Tujuannya adalah untuk para peminat bunga anggrek yang masih kebingungan dalam m
 
 </details>
 
-</details>
-
 <details markdown="1">
 <summary><h2>🔽 PR Modul 9</h2></summary>
 
