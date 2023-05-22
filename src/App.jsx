@@ -6,6 +6,7 @@ import {
   FlowerDesc,
   Home,
   DaftarPenjual,
+  LoginPenjual,
 } from './pages';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <Route path="*" element={<NotFound />} />
         <Route path="/flower-description" element={<FlowerDesc />} />
         <Route path="/daftar-penjual" element={<DaftarPenjual />} />
+        <Route path="/login-penjual" element={<LoginPenjual />} />
       </Routes>
     </BrowserRouter>
   )
