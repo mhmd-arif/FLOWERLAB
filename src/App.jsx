@@ -5,6 +5,7 @@ import {
   NotFound,
   FlowerDesc,
   Home,
+  DaftarPenjual,
 } from './pages';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="*" element={<NotFound />} />
         <Route path="/flower-description" element={<FlowerDesc />} />
+        <Route path="/daftar-penjual" element={<DaftarPenjual />} />
       </Routes>
     </BrowserRouter>
   )
