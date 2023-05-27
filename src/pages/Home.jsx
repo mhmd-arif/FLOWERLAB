@@ -1,8 +1,13 @@
 /* eslint-disable react/no-unknown-property */
+import { FileInput } from "../assets/components"
 
 export default function Home() {
     return (
         <div className="text-[#6D8B74] mx-auto w-auto h-screen flex flex-col gap-7 m-[-40px] justify-center content-center">
+            <div>
+                <FileInput/>
+            </div>
+
             <h1 className="font-bold text-[#000A01] text-2xl md:text-5xl lg:text-6xl">Selamat Datang di Flowerlab!</h1>
                 <form class="flex justify-center items-center">   
                     <label for="simple-search" class="sr-only">Search</label>
