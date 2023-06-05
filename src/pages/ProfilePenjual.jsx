@@ -21,7 +21,7 @@ export default function ProfilePenjual() {
                     </div>
             </div>
         </div>
-      </div>
-    </div>
+    //   </div>
+    // </div>
   );
 }
