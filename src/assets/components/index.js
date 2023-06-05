@@ -1,5 +1,7 @@
 import FileInput from "./FileInput";
+import Navbar from "./Navbar";
 
 export{
-    FileInput
+    FileInput,
+    Navbar
 }

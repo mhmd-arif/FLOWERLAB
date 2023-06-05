@@ -5,12 +5,6 @@ export default function FileInput() {
   const [selectedFile, setSelectedFile] = useState(null);
   const navigate = useNavigate();
 
-  // const flowerData = (data) =>{
-  //   navigate("/flower-description",{
-  //     state: data
-  //   })
-  // }
-
   const handleFileChange = (event) => {
     setSelectedFile(event.target.files[0]);
   };
@@ -30,7 +24,7 @@ export default function FileInput() {
         .then(data => {
           // Handle the response from the API
           console.log(data);
-          
+
           navigate("/flower-description",{
             state: data
           })
