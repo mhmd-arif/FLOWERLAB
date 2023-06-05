@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unknown-property */
 import { flower } from "../assets"
 
-export default function LoginPenjual() {
+export default function FlowerDesc() {
     return (
         <div className="text-[#6D8B74] mx-auto w-auto h-screen grid mt-[50px] md:mt-[-50px] gap-7 justify-center content-center">
             <h1 className="flex text-3xl md:text-5xl md:px-4">Flower name</h1>
