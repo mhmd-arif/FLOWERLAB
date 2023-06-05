@@ -3,6 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEye, faEyeSlash } from '@fortawesome/free-solid-svg-icons';
 import axios from "axios";
+import { Navbar } from '../assets/components';
 
 export default function DaftarPenjual() {
   const [showPassword, setShowPassword] = useState(false);
@@ -37,6 +38,7 @@ export default function DaftarPenjual() {
   };
 
   return (
+    <>
     <div className="text-[#6D8B74] mx-auto w-auto h-screen grid mt-[50px] gap-7 justify-center content-center">
       <p className="text-base text-red-500 text-center">{msg}</p>
       <form onSubmit={saveUser} className="bg-white flex flex-col md:grid max-w-[1000px] rounded-md p-[20px] md:py-[30px]">
@@ -89,5 +91,6 @@ export default function DaftarPenjual() {
         </label>
       </form>
     </div>
+    </>
   );
 }

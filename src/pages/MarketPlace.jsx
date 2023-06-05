@@ -1,9 +1,12 @@
 /* eslint-disable react/no-unknown-property */
 
 import { flowerSquare } from "../assets"
+import { Navbar } from "../assets/components"
 
 export default function Marketplace() {
     return (
+        <>
+        <Navbar/>
         <div className="text-[#6D8B74] mx-auto w-auto h-screen flex flex-col gap-7 justify-center content-center">
             <h1 className="font-bold text-[#000A01] text-2xl md:text-3xl lg:text-4xl">Selamat Datang di Flowerlab Marketplace!</h1>
                 <form class="flex justify-center items-center">   
@@ -82,5 +85,6 @@ export default function Marketplace() {
                 </div>
             </div>
         </div>
+        </>
     )
 }

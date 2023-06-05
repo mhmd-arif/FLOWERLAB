@@ -1,8 +1,11 @@
 /* eslint-disable react/no-unknown-property */
 import { flower } from "../assets"
+import { Navbar } from "../assets/components"
 
 export default function ProductDesc() {
     return (
+        <>
+        <Navbar/>
         <div className="text-[#6D8B74] mx-auto w-auto h-screen grid mt-[50px] gap-7 justify-center content-center">
             <div className="bg-white flex flex-col gap-5 md:grid md:grid-cols-2 max-w-[1000px] rounded-md p-[20px] md:py-[30px]">
             <div>
@@ -17,5 +20,6 @@ export default function ProductDesc() {
             </div>
             </div>
         </div>
+        </>
     )
 }

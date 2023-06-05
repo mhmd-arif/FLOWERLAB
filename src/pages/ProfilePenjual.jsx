@@ -1,9 +1,12 @@
 import { Link } from "react-router-dom";
 import { imageuser } from "../assets";
 import { flowerSquare } from "../assets";
+import { Navbar } from "../assets/components";
 
 export default function ProfilePenjual() {
   return (
+    <>
+    <Navbar/>
     <div className="flex">
       <div className="w-1/4 bg-[#CFC9C1] p-5 h-screen justify-center">
         <h1 className="text-black text-xl font-medium">Profile Penjual</h1>
@@ -39,5 +42,6 @@ export default function ProfilePenjual() {
         </div>
     //   </div>
     // </div>
+    </>
   );
 }

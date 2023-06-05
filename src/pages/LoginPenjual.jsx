@@ -6,6 +6,7 @@ import { useCookies } from "react-cookie";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEye, faEyeSlash } from '@fortawesome/free-solid-svg-icons';
 import axios from "axios";
+import { Navbar } from "../assets/components";
 
 export default function LoginPenjual() {
   const [showPassword, setShowPassword] = useState(false);
@@ -45,6 +46,8 @@ export default function LoginPenjual() {
     }
 
   return (
+    <>
+    <Navbar/>
     <div className="text-[#6D8B74] mx-auto w-auto h-screen grid mt-[50px] gap-7 justify-center content-center">
         <form onSubmit={login} className="bg-white flex flex-col gap-2 md:flex-row rounded-md p-[20px] bigger-background">
         <h1 class="text-center">{msg}</h1>
@@ -89,5 +92,6 @@ export default function LoginPenjual() {
             </div>
         </form>
     </div>
+    </>
 )
 }

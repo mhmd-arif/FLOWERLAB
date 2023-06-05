@@ -13,6 +13,7 @@ import {
   ProfilePenjual,
   EditProfile,
 } from './pages';
+import { Navbar } from './assets/components';
 
 function App() {
   return (
