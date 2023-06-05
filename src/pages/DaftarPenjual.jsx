@@ -35,12 +35,19 @@ export default function DaftarPenjual() {
         <input type="text" className="mt-2 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  dark:bg-[#FFFFFF] dark:border-gray-600 dark:placeholder-gray-600 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Masukkan nama Anda" required />
         <label className="text-left mt-7"> Kontak</label>
         <input type="text" className="mt-2 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  dark:bg-[#FFFFFF] dark:border-gray-600 dark:placeholder-gray-600 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Masukkan nomor handphone Anda" required />
-        <div className="flex justify-center gap-2 mt-10">
+        <div className="flex justify-center gap-2 mt-8">
             <Link to="/login-penjual">
-            <button type="submit" className="bg-[#6D8B74] text-white text-1xl px-4 py-2 rounded-md">Masuk</button>
-            </Link>
             <button type="submit" className="bg-[#6D8B74] text-white text-1xl px-4 py-2 rounded-md">Daftar</button>
+            </Link>
         </div>
+        <label className="text-center mt-5">
+            Sudah punya akun?
+            <Link className="" to="/login-penjual">
+                <span className="underline font-bold" style={{ marginLeft: '2px' }}>
+                    Masuk!
+                </span>
+            </Link>
+        </label>
       </div>
     </div>
   );
