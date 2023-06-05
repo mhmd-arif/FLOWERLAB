@@ -8,8 +8,10 @@ import {
   DaftarPenjual,
   Marketplace,
   LoginPenjual,
+  ProductDesc,
+  AddProduct,
   ProfilePenjual,
-  EditProfile
+  EditProfile,
 } from './pages';
 
 function App() {
@@ -22,6 +24,8 @@ function App() {
         <Route path="/daftar-penjual" element={<DaftarPenjual />} />
         <Route path="/marketplace" element={<Marketplace />} />
         <Route path="/login-penjual" element={<LoginPenjual />} />
+        <Route path="/product-description" element={<ProductDesc />} />
+        <Route path="/add-product" element={<AddProduct />} />
         <Route path="/profile-penjual" element={<ProfilePenjual />} />
         <Route path="/edit-profile" element={<EditProfile />} />
       </Routes>
