@@ -1,7 +1,9 @@
 import { useState } from 'react';
+import {useNavigate} from 'react-router-dom'
 
 export default function FileInput() {
   const [selectedFile, setSelectedFile] = useState(null);
+  const navigate = useNavigate();
 
   const handleFileChange = (event) => {
     setSelectedFile(event.target.files[0]);
@@ -14,7 +16,7 @@ export default function FileInput() {
       const formData = new FormData();
       formData.append('file', selectedFile);
 
-      fetch('http://127.0.0.1:5000/success', {
+      fetch('http://127.0.0.1:5000/predict-image', {
         method: 'POST',
         body: formData,
       })
@@ -22,6 +24,10 @@ export default function FileInput() {
         .then(data => {
           // Handle the response from the API
           console.log(data);
+
+          navigate("/flower-description",{
+            state: data
+          })
         })
         .catch(error => {
           // Handle any errors
@@ -33,8 +39,8 @@ export default function FileInput() {
   return (
     <div>
       <form onSubmit={handleSubmit}>
-        <input type="file" onChange={handleFileChange} />
-        <button type="submit">Upload</button>
+        <input type="file" onChange={handleFileChange} className='bg-white' />
+        <button type="submit" className='bg-white rounded-md p-[5px] ml-[10px] '>Upload</button>
       </form>
     </div>
   );
