@@ -30,8 +30,8 @@ export default function LoginPenjual() {
             });
             navigate("/profile-penjual");
             console.log(response.data.data.accessToken);
-            const accessToken = response.data.data.accessToken;
-            setCookie("token", accessToken, {
+            const token = response.data.data.accessToken;
+            setCookie("token", token, {
                 path: "/",
             });
             
