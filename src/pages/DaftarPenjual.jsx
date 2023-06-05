@@ -37,7 +37,7 @@ export default function DaftarPenjual() {
   };
 
   return (
-    <div className="text-[#6D8B74] mx-auto w-auto h-screen grid mt-[50px] md:mt-[-50px] gap-7 justify-center content-center">
+    <div className="text-[#6D8B74] mx-auto w-auto h-screen grid mt-[50px] gap-7 justify-center content-center">
       <p className="text-base text-red-500 text-center">{msg}</p>
       <form onSubmit={saveUser} className="bg-white flex flex-col md:grid max-w-[1000px] rounded-md p-[20px] md:py-[30px]">
         <h1 className="flex text-3xl md:text-5xl md:px-4">Hai, daftar di sini!</h1>

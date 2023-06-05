@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export default function EditProfile() {
   return (
-    <div className="text-[#6D8B74] mx-auto w-auto h-screen grid mt-[50px] md:mt-[-50px] gap-7 justify-center content-center">
+    <div className="text-[#6D8B74] mx-auto w-auto h-screen grid mt-[50px] gap-7 justify-center content-center">
       <div className="bg-white flex flex-col md:grid w-[500px] rounded-md p-[20px] md:py-[30px]">
         <h2 className="text-xl md:text-3xl">Edit Profile</h2>
         <label className="text-left mt-7"> Email</label>

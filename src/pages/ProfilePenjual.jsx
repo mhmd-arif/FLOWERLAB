@@ -4,7 +4,7 @@ import { imageuser } from "../assets"
 
 export default function ProfilePenjual() {
     return (
-        <div className="text-[#6D8B74] mx-auto w-auto h-screen flex flex-col gap-7 m-[-40px] justify-center">
+        <div className="text-[#6D8B74] mx-auto w-auto h-screen flex flex-col gap-7 justify-center">
             <div className="w-full md:w-1/4 bg-[#CFC9C1] absolute w-363 min-h-screen left-0 flex items-center justify-center flex-col p-3 overflow-y-hidden">
                 <h1 className="text-black text-xl font-medium">Profile Penjual</h1>
                 <div className="flex justify-center mt-7">

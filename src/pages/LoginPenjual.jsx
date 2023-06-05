@@ -45,7 +45,7 @@ export default function LoginPenjual() {
     }
 
   return (
-    <div className="text-[#6D8B74] mx-auto w-auto h-screen grid mt-[50px] md:mt-[-50px] gap-7 justify-center content-center">
+    <div className="text-[#6D8B74] mx-auto w-auto h-screen grid mt-[50px] gap-7 justify-center content-center">
         <form onSubmit={login} className="bg-white flex flex-col gap-2 md:flex-row rounded-md p-[20px] bigger-background">
         <h1 class="text-center">{msg}</h1>
             <div className="w-full md:w-1/2">

@@ -3,7 +3,7 @@ import { flower } from "../assets"
 
 export default function ProductDesc() {
     return (
-        <div className="text-[#6D8B74] mx-auto w-auto h-screen grid mt-[50px] md:mt-[-50px] gap-7 justify-center content-center">
+        <div className="text-[#6D8B74] mx-auto w-auto h-screen grid mt-[50px] gap-7 justify-center content-center">
             <div className="bg-white flex flex-col gap-5 md:grid md:grid-cols-2 max-w-[1000px] rounded-md p-[20px] md:py-[30px]">
             <div>
                 <h1 className="text-3xl md:px-4 text-left">Nama Produk</h1>
