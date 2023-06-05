@@ -4,9 +4,7 @@ import { FileInput } from "../assets/components"
 export default function Home() {
     return (
         <div className="text-[#6D8B74] mx-auto w-auto h-screen flex flex-col gap-7 m-[-40px] justify-center content-center">
-            <div>
-                <FileInput/>
-            </div>
+            
 
             <h1 className="font-bold text-[#000A01] text-2xl md:text-5xl lg:text-6xl">Selamat Datang di Flowerlab!</h1>
                 <form class="flex justify-center items-center">   
@@ -22,6 +20,9 @@ export default function Home() {
                         <span class="sr-only">Search</span>
                     </button>
                 </form>
+                <div>
+                <FileInput/>
+            </div>
             <h1 className="font-bold text-[#000A01] text-md md:text-2xl">Atau kunjungi Flowerlab Marketplace</h1>
         </div>
     )
