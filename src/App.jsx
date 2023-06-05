@@ -8,6 +8,8 @@ import {
   DaftarPenjual,
   Marketplace,
   LoginPenjual,
+  ProductDesc,
+  AddProduct,
 } from './pages';
 
 function App() {
@@ -20,6 +22,8 @@ function App() {
         <Route path="/daftar-penjual" element={<DaftarPenjual />} />
         <Route path="/marketplace" element={<Marketplace />} />
         <Route path="/login-penjual" element={<LoginPenjual />} />
+        <Route path="/product-description" element={<ProductDesc />} />
+        <Route path="/add-product" element={<AddProduct />} />
       </Routes>
     </BrowserRouter>
   )

@@ -4,6 +4,8 @@ import Home from "./Home";
 import DaftarPenjual from "./DaftarPenjual";
 import LoginPenjual from "./LoginPenjual";
 import Marketplace from "./MarketPlace";
+import ProductDesc from "./ProductDesc";
+import AddProduct from "./AddProduct"
 
 
 export{
@@ -13,4 +15,6 @@ export{
     DaftarPenjual,
     LoginPenjual,
     Marketplace,
+    ProductDesc,
+    AddProduct,
 };
