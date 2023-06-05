@@ -11,6 +11,7 @@ export default function LoginPenjual() {
         </div>  
             <div className="w-full md:w-1/2">
                 <input type="text" class="text-left mt-2 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  dark:bg-[#FFFFFF] dark:border-gray-600 dark:placeholder-gray-600 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Nama Produk" required />
+                <input type="text" class="text-left mt-2 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  dark:bg-[#FFFFFF] dark:border-gray-600 dark:placeholder-gray-600 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Link Gambar Produk" required />
                 <select className="text-left mt-2 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-[#FFFFFF] dark:border-gray-600 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" required>
                     <option value="" disabled selected className="placeholder-text">Pilih Jenis Bunga</option>
                     <option value="option1">Cattleya</option>
