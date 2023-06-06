@@ -24,12 +24,13 @@ export default function DaftarPenjual() {
     e.preventDefault();
     try {
       await axios.post("https://flowerlab-backend-node.vercel.app/auth/signup", {
-        email,
-        password,
-        username,
-        contact,
+        email: email,
+        password : password,
+        username: username,
+        contact: contact,
       });
-      // navigate("/");
+      console.log(email, password, username, contact)
+      navigate("/login-penjual");
     } catch (error) {
       if (error.response) {
         setMsg(error.response.data.msg);
