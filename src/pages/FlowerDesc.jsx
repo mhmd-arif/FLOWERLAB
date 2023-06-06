@@ -11,7 +11,7 @@ export default function FlowerDesc() {
     return (
         <>
         <Navbar/>
-        <div className="text-[#6D8B74] mx-auto w-auto h-screen grid mt-[50px] gap-7 justify-center content-center">
+        <div className="text-[#6D8B74] mx-auto w-auto h-screen grid gap-7 justify-center content-center">
             <h1 className="flex text-3xl md:text-5xl md:px-4">{flowerData.genus}</h1>
             <div className=" bg-white flex flex-col gap-5 md:grid md:grid-cols-2 max-w-[1000px] rounded-md justify-items-center p-[20px] md:py-[30px]">
                 <img src={flowerData.imageUrl} alt="flower-pict" className="w-[80%]"  />

@@ -6,7 +6,7 @@ export default function LoginPenjual() {
   return (
     <>
     <Navbar/>
-    <div className="text-[#6D8B74] mx-auto w-auto h-screen grid mt-[50px]  justify-center content-center">
+    <div className="text-[#6D8B74] mx-auto w-auto h-screen grid justify-center content-center">
         <h1 className="text-left mb-3 text-lg font-bold">Menambahkan Produk</h1>
         <div className="bg-white flex flex-col gap-2 md:flex-row rounded-md p-[20px] bigger-background">
         <div className="w-full md:w-1/2 flex justify-center">
