@@ -39,6 +39,7 @@ export default function DaftarPenjual() {
 
   return (
     <>
+    <Navbar/>
     <div className="text-[#6D8B74] mx-auto w-auto h-screen grid gap-7 justify-center content-center">
       <p className="text-base text-red-500 text-center">{msg}</p>
       <form onSubmit={saveUser} className="bg-white flex flex-col md:grid max-w-[1000px] rounded-md p-[20px] md:py-[30px]">

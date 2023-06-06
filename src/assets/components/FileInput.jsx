@@ -39,7 +39,7 @@ export default function FileInput() {
   return (
     <div>
       <form onSubmit={handleSubmit}>
-        <input type="file" onChange={handleFileChange} className='bg-white' />
+        <input type="file" onChange={handleFileChange} className='bg-white w-[600px] h-[30px]' />
         <button type="submit" className='bg-white rounded-md p-[5px] ml-[10px] text-black font-normal '>Upload</button>
       </form>
     </div>
