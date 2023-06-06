@@ -27,9 +27,9 @@ export default function DaftarPenjual() {
         email: email,
         password : password,
         username: username,
-        contact: contact,
+        // contact: contact,
       });
-      console.log(email, password, username, contact)
+      console.log(email, password, username)
       navigate("/login-penjual");
     } catch (error) {
       if (error.response) {
